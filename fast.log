@@ -1,0 +1,28 @@
+06/18/2025-13:14:18.755671  [**] [1:10009:1] HTTPS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:58982 -> 142.251.15.93:443
+06/18/2025-13:14:25.808430  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:48428 -> 142.250.105.104:443
+06/18/2025-13:14:27.888045  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:55872 -> 110.11.116.252:80
+06/18/2025-13:15:00.974201  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:46368 -> 44.234.232.238:443
+06/18/2025-13:15:01.911939  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:46370 -> 44.234.232.238:443
+06/18/2025-13:15:03.587246  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:35312 -> 52.10.208.126:443
+06/18/2025-13:15:03.589361  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:35330 -> 52.10.208.126:443
+06/18/2025-13:15:03.590923  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:35298 -> 52.10.208.126:443
+06/18/2025-13:15:03.598311  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:35322 -> 52.10.208.126:443
+06/18/2025-13:15:04.825632  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:60296 -> 142.250.105.99:443
+06/18/2025-13:15:05.265946  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:41568 -> 163.70.158.35:443
+06/18/2025-13:15:05.470156  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:42078 -> 52.12.134.97:443
+06/18/2025-13:15:05.484499  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:56742 -> 44.242.60.85:443
+06/18/2025-13:15:05.485808  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:56754 -> 44.242.60.85:443
+06/18/2025-13:15:05.513200  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:42080 -> 52.12.134.97:443
+06/18/2025-13:15:05.586641  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:42096 -> 52.12.134.97:443
+06/18/2025-13:15:05.702847  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:56750 -> 44.242.60.85:443
+06/18/2025-13:15:06.146476  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:35336 -> 52.10.208.126:443
+06/18/2025-13:15:06.161079  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:35342 -> 52.10.208.126:443
+06/18/2025-13:15:07.444363  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:34534 -> 110.11.116.252:80
+06/18/2025-13:15:07.546402  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:34534 -> 110.11.116.252:80
+06/18/2025-13:15:15.417095  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:56520 -> 52.12.134.97:443
+06/18/2025-13:15:15.484514  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:44626 -> 52.10.208.126:443
+06/18/2025-13:15:18.084352  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:58438 -> 142.250.105.95:443
+06/18/2025-13:15:18.334014  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:57482 -> 142.250.9.141:443
+06/18/2025-13:15:19.341160  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:44032 -> 172.217.215.139:443
+06/18/2025-13:15:19.564224  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:44026 -> 172.217.215.139:443
+06/18/2025-13:15:26.926076  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.32.130:42658 -> 172.217.215.100:443

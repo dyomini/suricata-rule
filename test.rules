@@ -1,0 +1,14 @@
+alert tls any any -> any 443 (msg: "HTTPS gilgil.net access"; content: "gilgil.net"; sid: 10001; rev:1;)
+alert tcp any any -> any 80 (msg:"gilgil.net access"; content:"GET /"; content:"Host: "; content:"gilgil.net"; sid:10002; rev:1;)
+
+alert tls any any -> any 443 (msg: "HTTPS netflix.com access"; content: "netflix.com"; sid: 10003; rev:1;)
+alert tcp any any -> any 80 (msg:"netflix.com access"; content:"GET /"; content:"Host: "; content:"netflix.com"; sid:10004; rev:1;)
+
+alert tls any any -> any 443 (msg: "HTTPS google.com access"; content: "google.com"; sid: 10005; rev:1;)
+alert tcp any any -> any 80 (msg:"google.com access"; content:"GET /"; content:"Host: "; content:"google.com"; sid:10006; rev:1;)
+
+alert tls any any -> any 443 (msg: "HTTPS facebook.com access"; content: "facebook.com"; sid: 10007; rev:1;)
+alert tcp any any -> any 80 (msg:"facebook.com access"; content:"GET /"; content:"Host: "; content:"facebook.com"; sid:10008; rev:1;)
+
+alert tls any any -> any 443 (msg: "HTTPS youtube.com access"; content: "youtube.com"; sid: 10009; rev:1;)
+alert tcp any any -> any 80 (msg:"youtube.com access"; content:"GET /"; content:"Host: "; content:"youtube.com"; sid:10010; rev:1;)
